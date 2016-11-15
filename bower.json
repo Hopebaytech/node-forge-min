@@ -1,0 +1,14 @@
+{
+  "name": "node-forge-min",
+  "description": "node-forge min file.",
+  "main": "forge.min.js",
+  "moduleType": [],
+  "keywords": [
+    "forge"
+  ],
+  "authors": [
+    "HB tech"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}

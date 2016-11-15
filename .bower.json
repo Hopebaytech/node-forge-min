@@ -1,0 +1,23 @@
+{
+  "name": "node-forge-min",
+  "description": "node-forge min file.",
+  "main": "forge.min.js",
+  "moduleType": [],
+  "keywords": [
+    "forge"
+  ],
+  "authors": [
+    "HB tech"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "_release": "ea2042cee7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ea2042cee75990927172463bee3628c66c37a3df"
+  },
+  "_source": "git@gitlab.hopebaytech.com:ethan.chen/node-forge-min.git",
+  "_target": "*",
+  "_originalSource": "git@gitlab.hopebaytech.com:ethan.chen/node-forge-min.git"
+}
